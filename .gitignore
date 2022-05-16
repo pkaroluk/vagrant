@@ -1,0 +1,11 @@
+*.iso
+*.box
+*.ovf
+*.vmdk
+*.vdi
+packer_cache
+packer.log
+.DS_Store
+/packer-*/
+/build/*
+*.log
